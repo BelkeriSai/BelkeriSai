@@ -2,7 +2,7 @@
 
 ### An Industrial IoT Engineer
 
-#### All I do is Factory Digitization
+#### Riding the wave of Digitization. Currently for Factories 🏭
 <!--
 **BelkeriSai/BelkeriSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
