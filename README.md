@@ -12,6 +12,7 @@
   <a href="mailto:saiprakashbelkeri@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/belkerisaiprakash/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/belkerisai"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.youtube.com/user/belkiot"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
   <a href="https://www.instagram.com/belkerisai"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://stackoverflow.com/users/14785407/belkerisai"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
   <!--
