@@ -2,7 +2,7 @@
 
 ### An Industrial IoT Engineer
 
-#### Riding the wave of Digitization. Currently for Factories 🏭
+#### Riding the wave of Digitalization. Currently for Factories 🏭
 
 
 ## Links
